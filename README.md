@@ -31,7 +31,7 @@ Machine Learning · Data Analysis · Fintech · Quantitative Finance
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-krittawee-blue?style=flat&logo=linkedin)](https://linkedin.com/in/krittawee)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-krittawee-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/kritvvv/)
 [![GitHub](https://img.shields.io/badge/GitHub-krittawee-black?style=flat&logo=github)](https://github.com/krittawee)
 
 ---

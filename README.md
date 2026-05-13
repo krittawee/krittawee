@@ -9,9 +9,9 @@ Interested in **Fintech** · **Quantitative Finance** · **Machine Learning**
 
 I'm a computer science student passionate about the intersection of finance and technology. I enjoy building data-driven solutions and exploring how AI can be applied to real-world financial problems.
 
-- 🎓 Studying Information Systems Technology & Design (ISTD) at SUTD
+- 🎓 graduated from Kamnoetviddya Science Academy, Rayong, Thailand
+- 📚 Studying Information Systems Technology & Design (ISTD) at SUTD
 - 🔍 Exploring: Algorithmic Trading, Data Science, Financial AI
-- 🇹🇭 From Rayong, Thailand
 
 ---
 
